@@ -1,4 +1,10 @@
 {
+  "name": "toplanti-oda",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"no build step\""
+  },
   "dependencies": {
     "firebase": "^12.4.0"
   }
